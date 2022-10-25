@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(home.jpg);
+    background-position: 0%;
+    position: initial;
+}
+h1{
+    text-align: center;
+    font-size: 260%;
+    color: cyan;
+    font-family: Algerian;
+    position: initial;
+}
+
+.one{
+    height: 58%;
+    width: 80%;
+    margin: 20%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    border-top-right-radius: 30%;
+    background-image: url(Attack.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.one:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    border-top-right-radius: 31%;`
+    font-size: 180%;
+    text-align: center;
+    color: red;
+    background-image: url(Attack1.jpeg);
+    position: absolute;
+}
+.two{
+    height: 58%;
+    width: 80%;
+    margin: 150%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Clover.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.two:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Clover1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: red;
+}
+.three{
+    height: 58%;
+    width: 80%;
+    margin:  270%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Summoner1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.three:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Summoner.jpg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: red;
+}
