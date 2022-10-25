@@ -6,7 +6,7 @@ body{
     margin: 0;
     padding: 0;
     background-image: url(home.jpg);
-    background-position: 0%;
+    background-position: fill;
     position: initial;
 }
 h1{
@@ -97,6 +97,409 @@ h1{
     border: solid;
     border-radius: 5%;
     background-image: url(Summoner.jpg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: red;
+}
+.four{
+    height: 58%;
+    width: 80%;
+    margin: 400%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Assasination.jpg);
+    background-size: 100%;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.four:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Assasination1.jpg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: red;
+}
+.five{
+    height: 58%;
+    width: 80%;
+    margin: 530%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Noragami.jpeg);
+    background-size: 100%;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.five:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Noragami1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: red;
+}
+.six{
+    height: 58%;
+    width: 80%;
+    margin:  660%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Arifureta.jpg);
+    background-size: 100%;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.six:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Arifureta1.jpg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: red;
+}
+.seven{
+    height: 58%;
+    width: 80%;
+    margin:  790%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Tail.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.seven:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Tail1.jpg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: red;
+}
+.eight{
+    height: 58%;
+    width: 80%;
+    margin: 920%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Academia.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.eight:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Academia1.jpg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: red;
+}
+.nine{
+    height: 58%;
+    width: 80%;
+    margin: 1050%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Ghoul.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.nine:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Ghoul1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: red;
+}
+.ten{
+    height: 58%;
+    width: 80%;
+    margin: 1180%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Devil1.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.ten:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Devil.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: red;
+}
+.eleven{
+    height: 58%;
+    width: 80%;
+    margin: 1310%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(High1.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.eleven:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(High.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: red;
+}
+.twelve{
+    height: 58%;
+    width: 80%;
+    margin: 1440%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Classroom.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.twelve:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Classroom1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: red;
+}
+.thirteen{
+    height: 58%;
+    width: 80%;
+    margin: 1570%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Highshool.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.thirteen:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Highshool1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: red;
+}
+.fourteen{
+    height: 58%;
+    width: 80%;
+    margin: 1700%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Demonking.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.fourteen:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Demonking1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: red;
+}
+.fifthteen{
+    height: 58%;
+    width: 80%;
+    margin: 1830%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Angels1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.fifthteen:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Angels.jpg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: red;
+}
+.sixteen{
+    height: 58%;
+    width: 80%;
+    margin: 1960%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Wonderland.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.sixteen:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Wonderland1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: red;
+}
+.seventeen{
+    height: 30%;
+    width: 12%;
+    margin: 32%;
+    margin-left: 28%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.seventeen:hover{
+    height: 31%;
+    width: 13%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(.jpeg);
     border-top-right-radius: 31%;
     background-color: aqua;
     font-size: 180%;
