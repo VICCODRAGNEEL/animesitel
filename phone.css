@@ -16,7 +16,10 @@ h1{
     font-family: Algerian;
     position: initial;
 }
-
+div{
+    color: #fff;
+    font-family: fantasy;
+}
 .one{
     height: 58%;
     width: 80%;
@@ -41,7 +44,7 @@ h1{
     border-top-right-radius: 31%;`
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
     background-image: url(Attack1.jpeg);
     position: absolute;
 }
@@ -72,7 +75,7 @@ h1{
     background-color: aqua;
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
 }
 .three{
     height: 58%;
@@ -101,7 +104,7 @@ h1{
     background-color: aqua;
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
 }
 .four{
     height: 58%;
@@ -129,7 +132,7 @@ h1{
     background-color: aqua;
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
 }
 .five{
     height: 58%;
@@ -157,7 +160,7 @@ h1{
     background-color: aqua;
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
 }
 .six{
     height: 58%;
@@ -185,7 +188,7 @@ h1{
     background-color: aqua;
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
 }
 .seven{
     height: 58%;
@@ -214,7 +217,7 @@ h1{
     background-color: aqua;
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
 }
 .eight{
     height: 58%;
@@ -243,7 +246,7 @@ h1{
     background-color: aqua;
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
 }
 .nine{
     height: 58%;
@@ -272,7 +275,7 @@ h1{
     background-color: aqua;
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
 }
 .ten{
     height: 58%;
@@ -301,7 +304,7 @@ h1{
     background-color: aqua;
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
 }
 .eleven{
     height: 58%;
@@ -330,7 +333,7 @@ h1{
     background-color: aqua;
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
 }
 .twelve{
     height: 58%;
@@ -359,7 +362,7 @@ h1{
     background-color: aqua;
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
 }
 .thirteen{
     height: 58%;
@@ -388,7 +391,7 @@ h1{
     background-color: aqua;
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
 }
 .fourteen{
     height: 58%;
@@ -417,7 +420,7 @@ h1{
     background-color: aqua;
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
 }
 .fifthteen{
     height: 58%;
@@ -446,7 +449,7 @@ h1{
     background-color: aqua;
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
 }
 .sixteen{
     height: 58%;
@@ -475,7 +478,7 @@ h1{
     background-color: aqua;
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
 }
 .seventeen{
     height: 30%;
@@ -504,5 +507,5 @@ h1{
     background-color: aqua;
     font-size: 180%;
     text-align: center;
-    color: red;
+    color: #fff;
 }
