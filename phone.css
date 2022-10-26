@@ -15,10 +15,12 @@ h1{
     color: cyan;
     font-family: Algerian;
     position: initial;
+    text-shadow: black;
 }
 div{
     color: #fff;
     font-family: fantasy;
+    text-shadow: black;
 }
 .one{
     height: 58%;
@@ -481,13 +483,13 @@ div{
     color: #fff;
 }
 .seventeen{
-    height: 30%;
-    width: 12%;
-    margin: 32%;
-    margin-left: 28%;
+    height: 58%;
+    width: 80%;
+    margin: 2090%;
+    margin-left: 10%;
     border: solid;
     border-radius: 5%;
-    background-image: url(.jpeg);
+    background-image: url(kaisen.jpeg);
     background-size: 100%;
     background-repeat: no-repeat;
     border-top-right-radius: 30%;
@@ -498,11 +500,705 @@ div{
     position: absolute;
 }
 .seventeen:hover{
-    height: 31%;
-    width: 13%;
+    height: 59%;
+    width: 81%;
     border: solid;
     border-radius: 5%;
-    background-image: url(.jpeg);
+    background-image: url(kaisen1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.eighteen{
+    height: 58%;
+    width: 80%;
+    margin: 2220%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Piece.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.eighteen:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Piece1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.nineteen{
+    height: 58%;
+    width: 80%;
+    margin: 2350%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Naruto.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.nineteen:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Naruto1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.twenty{
+    height: 58%;
+    width: 80%;
+    margin: 2480%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Boruto.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.twenty:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Boruto1.jpg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.twenty-one{
+    height: 58%;
+    width: 80%;
+    margin: 2610%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Shield.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.twenty-one:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Shield1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.twenty-two{
+    height: 58%;
+    width: 80%;
+    margin: 2740%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Mob.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.twenty-two:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Mob1.jpg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.twenty-three{
+    height: 58%;
+    width: 80%;
+    margin: 2870%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Exorcist.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.twenty-three:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Exorcist1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.twenty-four{
+    height: 58%;
+    width: 80%;
+    margin: 3000%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Food.webp);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.twenty-four:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Food1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.twenty-five{
+    height: 58%;
+    width: 80%;
+    margin: 3130%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Chainsaw.webp);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.twenty-five:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Chainsaw1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.twenty-six{
+    height: 58%;
+    width: 80%;
+    margin: 3260%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Revengers.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.twenty-six:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Revengers1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.twenty-seven{
+    height: 58%;
+    width: 80%;
+    margin: 3390%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Sins.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.twenty-seven:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Sins1.jpg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.twenty-eight{
+    height: 58%;
+    width: 80%;
+    margin: 3520%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Bleach.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.twenty-eight:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Bleach1.jpg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.twenty-nine{
+    height: 58%;
+    width: 80%;
+    margin: 3650%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Duo.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.twenty-nine:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Duo1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.thirty{
+    height: 58%;
+    width: 80%;
+    margin: 3780%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Bullet.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.thirty:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Bullet1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.thirty-one{
+    height: 58%;
+    width: 80%;
+    margin: 3910%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Lad.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.thirty-one:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Lad1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.thirty-two{
+    height: 58%;
+    width: 80%;
+    margin: 4040%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Stone.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.thirty-two:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Stone1.png);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.thirty-three{
+    height: 58%;
+    width: 80%;
+    margin: 4170%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Goblin.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.thirty-three:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Goblin1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.thirty-four{
+    height: 58%;
+    width: 80%;
+    margin: 4300%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Akame.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.thirty-four:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Akame1.jpg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.thirty-five{
+    height: 58%;
+    width: 80%;
+    margin: 4430%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Noblesse.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.thirty-five:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Noblesse1.png);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.thirty-six{
+    height: 58%;
+    width: 80%;
+    margin: 4560%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Kill.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.thirty-six:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Kill1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.thirty-seven{
+    height: 58%;
+    width: 80%;
+    margin: 4690%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Vanitas.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.thirty-seven:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Vanitas1.jpg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.thirty-eight{
+    height: 58%;
+    width: 80%;
+    margin: 4820%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Overlord.jpg);
+    background-size: 100%;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.thirty-eight:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Overlord1.jpg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.thirty-nine{
+    height: 58%;
+    width: 80%;
+    margin: 4950%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Tower.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.thirty-nine:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Tower1.jpeg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.forty{
+    height: 58%;
+    width: 80%;
+    margin: 5080%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Trinity.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.forty:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Trinity1.jpg);
+    border-top-right-radius: 31%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    color: #fff;
+}
+.forty-one{
+    height: 58%;
+    width: 80%;
+    margin: 5210%;
+    margin-left: 10%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Tsugomomo.png);
+    background-size: 100%;
+    border-top-right-radius: 30%;
+    background-color: aqua;
+    font-size: 180%;
+    text-align: center;
+    transition: 1s;
+    position: absolute;
+}
+.forty-one:hover{
+    height: 59%;
+    width: 81%;
+    border: solid;
+    border-radius: 5%;
+    background-image: url(Tsugomomo1.png);
     border-top-right-radius: 31%;
     background-color: aqua;
     font-size: 180%;
