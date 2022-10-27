@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #000;
+}
+var{
+	height: 6%;
+	width: 13%;
+	margin-left: 43%;
+	background-image: url(home.png);
+	background-repeat: no-repeat;
+	background-size: 105%;
+	border: solid;
+	color: #000;
+	position: absolute;g
+}
+div{
+	height: 80%;
+	width: 95%;
+	margin-top: 50px;
+	margin-left: 8px;
+	border-color: red;
+	background-image: url(summoner2.jpg);
+	background-repeat: no-repeat;
+	background-position: 0%;
+	background-size:  100%;
+	position: absolute;
+}
+h3{
+	margin-top: 160%;
+	margin-left: 4%;
+	color: #fff;
+	font-family: Arial;
+	font-size: 33px;
+	position: absolute;
+}
+h5{
+	padding: 5px;
+	margin-top: 170%;
+	position: absolute;
+	color:  #fff;
+	font-family: Calibri;
+	font-size: 13px;
+}
+h4{
+	margin-top: 220%;
+	position: absolute;
+	color: #fff;
+	font-family: Calibri;
+	font-size: 15px;
+}
+button{
+	height: 7%;
+	width: 28%;
+	margin-top: 240%;
+	margin-left: 35%;
+	font-size: 104%;
+	color: #fff;
+	background-color: #000;
+}
